@@ -1,8 +1,8 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-tensorflow
-imbalanced-learn
-jupyter
+pandas==3.0.1
+numpy>=2.0.0
+matplotlib>=3.10.0
+seaborn>=0.13.0
+scikit-learn==1.8.0
+tensorflow==2.20.0
+imbalanced-learn==0.14.1
+kaggle==2.0.0
